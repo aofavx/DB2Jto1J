@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<validate>
+		<libcode>libcode</libcode>
+		<unitid>unitid</unitid>
+		<sjly>sjly</sjly>
+	</validate>
+	<file>
+		<bizid>SYSCODE</bizid>
+		<bgqx>BGQX</bgqx>
+		<flh>FLH</flh>
+		<flmc>FLMC</flmc>
+		<mj>MJ</mj>
+		<htjf>HTJF</htjf>
+		<htbh>WENHAO</htbh>
+		<gdfs>FS</gdfs>
+		<htyf>HTYF</htyf>
+		<title>TITLE</title>
+		<ztc>ZTC</ztc>
+		<zrz>ZRZ</zrz>
+		<lry>LRY</lry>
+		<lrrq>LRRQ</lrrq>
+		<wjlx>1_正文</wjlx>
+		<cwrq>CWRQ</cwrq>
+		<wz>WZ</wz>
+		<jjcd>JJCD</jjcd>
+		<remark>REMARK</remark>
+		<pagenum>0</pagenum>
+	</file>
+	<efiles>
+		<documentid>DOCUMENTID</documentid>
+		<filename>FILENAME</filename>
+		<filetype>FILETYPE</filetype>
+		<filesize>FILESIZE</filesize>
+		<manutype>正式电子文件</manutype>
+	</efiles>	
+</root>	
